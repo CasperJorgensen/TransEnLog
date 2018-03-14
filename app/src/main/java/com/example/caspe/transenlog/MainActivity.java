@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
     private ShakeActivity mShaker;
     //Casper
     //mathias
+    //Sofie
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TransEnLog.iml" filepath="$PROJECT_DIR$/.idea/TransEnLog.iml" />
+      <module fileurl="file://C:\Users\sofie\AndroidStudioProjects\TransEnLog4\.idea\TransEnLog.iml" filepath="C:\Users\sofie\AndroidStudioProjects\TransEnLog4\.idea\TransEnLog.iml" />
       <module fileurl="file://C:\Users\mathi\Desktop\android\TransEnLog\TransEnLog\TransEnLog.iml" filepath="C:\Users\mathi\Desktop\android\TransEnLog\TransEnLog\TransEnLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TransEnLog4.iml" filepath="$PROJECT_DIR$/.idea/TransEnLog4.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\sofie\AndroidStudioProjects\TransEnLog4\app\app.iml" filepath="C:\Users\sofie\AndroidStudioProjects\TransEnLog4\app\app.iml" />
       <module fileurl="file://C:\Users\mathi\Desktop\android\TransEnLog\TransEnLog\app\app.iml" filepath="C:\Users\mathi\Desktop\android\TransEnLog\TransEnLog\app\app.iml" />
     </modules>
   </component>
